@@ -1,3 +1,3 @@
-# NLW Expert (Python)
+# Barcode Generator
 
 Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat.
